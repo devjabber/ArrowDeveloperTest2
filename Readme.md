@@ -29,7 +29,7 @@ You are free to use any frameworks/NuGet packages that you see fit. You should p
 - Created an Account Service class to handle account related operations.
 - Created an account repository to handle account related database operations. This uses Entity Framework with an in-memory database configured in the console application.
 - Created a test project to unit test the service classes and validators. Used Moq and MSTest for testing.
-- Created a basic console UI.
+- Created a basic console UI using Spectre for some colour.
 
 ## Assumptions
 
